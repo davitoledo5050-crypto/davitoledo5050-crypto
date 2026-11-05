@@ -11,7 +11,7 @@
 - 🚀 Desenvolvo sites, interfaces e ferramentas para a web, com foco em design limpo e código bem feito.
 - 🎨 Gosto de unir design e desenvolvimento para criar produtos que funcionam e também são bonitos.
 - 📚 Autor do e-book **O Objetivo de Ganhar**, sobre teoria dos jogos, xadrez, poker, truco e estratégia (389 páginas).
-- 🏢 Fundador da **CIT Labs**.
+- 🏢 Atuo na **Diligence Brasil**.
 
 ## 🛠️ Tecnologias
 
